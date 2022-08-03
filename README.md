@@ -5,7 +5,8 @@ Author: Johnathan Mah, Rohit Bakshi, Da Qi Ren, Sitao Chen
 
 ## Credit
 A large portion of this repository uses the jetson-inference repository by NVIDIA -
-https://github.com/dusty-nv/jetson-inference
+https://github.com/dusty-nv/jetson-inference as reference. Several of the python
+scripts were modified to adjust to our particular use case. 
 
 ## Introduction
 This repository holds the code to run a mobilenet_v2 model that is trained to detect
